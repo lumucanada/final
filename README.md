@@ -5,9 +5,3 @@ This repo contains code and data for examining the 2019 Canadian federal electio
 Inputs contain data that are unchanged from their original. We use one dataset:
 
 To obtain this data, you can be accessed at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8RHLG1. 
-
-Outputs contain data that are modified from the input data, the report and supporting material. Scripts contain R scripts that take inputs and outputs and produce outputs. These are:
-
-01_data_cleaning.R
-02_data_preparation.R
-03_modelling.R
